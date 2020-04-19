@@ -1,0 +1,179 @@
+*****************************
+      ******MENU*******      
+*****************************
+f - finish
+e - display all events
+c - display all clients
+b - book tickets
+r - cancel/return tickets
+*****************************
+Type a letter and press Enter
+c
+Christina Deligiorgi
+Anna Smith
+Emma Williams
+Ford Williams
+John Williams
+ 
+*****************************
+      ******MENU*******      
+*****************************
+f - finish
+e - display all events
+c - display all clients
+b - book tickets
+r - cancel/return tickets
+*****************************
+Type a letter and press Enter
+e
+Athletics, Number of Tickets Avillible:4
+Crossfit, Number of Tickets Avillible:2
+Equestrian Jumping, Number of Tickets Avillible:7
+Football, Number of Tickets Avillible:4
+Handball, Number of Tickets Avillible:66
+Tennis, Number of Tickets Avillible:8
+Volleyball, Number of Tickets Avillible:41
+ 
+*****************************
+      ******MENU*******      
+*****************************
+f - finish
+e - display all events
+c - display all clients
+b - book tickets
+r - cancel/return tickets
+*****************************
+Type a letter and press Enter
+b
+Enter client's firstname and lastname, and press Enter
+Anna Smith
+Client's name valid
+Please enter an event name
+Football
+Event's valid
+Please enter a number
+2
+Number's valid
+Not sufficient number of tickets
+A letter has been genterated to the client
+[Football Number of tickts2]
+ 
+*****************************
+      ******MENU*******      
+*****************************
+f - finish
+e - display all events
+c - display all clients
+b - book tickets
+r - cancel/return tickets
+*****************************
+Type a letter and press Enter
+b
+Enter client's firstname and lastname, and press Enter
+Anna Smith
+Client's name valid
+Please enter an event name
+Football
+Event's valid
+Please enter a number
+1
+Number's valid
+Not sufficient number of tickets
+A letter has been genterated to the client
+[Football Number of tickts3]
+ 
+*****************************
+      ******MENU*******      
+*****************************
+f - finish
+e - display all events
+c - display all clients
+b - book tickets
+r - cancel/return tickets
+*****************************
+Type a letter and press Enter
+r
+Enter client's firstname and lastname, and press Enter
+Anna Smith
+Client's name valid
+Please enter an event name
+Football
+Please enter number of tickets to return or cancel
+2
+ 
+*****************************
+      ******MENU*******      
+*****************************
+f - finish
+e - display all events
+c - display all clients
+b - book tickets
+r - cancel/return tickets
+*****************************
+Type a letter and press Enter
+e
+Athletics, Number of Tickets Avillible:4
+Crossfit, Number of Tickets Avillible:2
+Equestrian Jumping, Number of Tickets Avillible:7
+Football, Number of Tickets Avillible:3
+Handball, Number of Tickets Avillible:66
+Tennis, Number of Tickets Avillible:8
+Volleyball, Number of Tickets Avillible:41
+ 
+*****************************
+      ******MENU*******      
+*****************************
+f - finish
+e - display all events
+c - display all clients
+b - book tickets
+r - cancel/return tickets
+*****************************
+Type a letter and press Enter
+b
+Enter client's firstname and lastname, and press Enter
+Anna Smith
+Client's name valid
+Please enter an event name
+Football
+Event's valid
+Please enter a number
+4
+Not sufficient number of tickets
+A letter has been genterated to the client
+ 
+*****************************
+      ******MENU*******      
+*****************************
+f - finish
+e - display all events
+c - display all clients
+b - book tickets
+r - cancel/return tickets
+*****************************
+Type a letter and press Enter
+b
+Enter client's firstname and lastname, and press Enter
+Anna Smith
+Client's name valid
+Please enter an event name
+Football
+Event's valid
+Please enter a number
+-1
+Enter a valid number1
+Number's valid
+[Football Number of tickts2]
+ 
+*****************************
+      ******MENU*******      
+*****************************
+f - finish
+e - display all events
+c - display all clients
+b - book tickets
+r - cancel/return tickets
+*****************************
+Type a letter and press Enter
+f
+Shutting down ...
